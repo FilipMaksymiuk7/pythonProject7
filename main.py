@@ -1,9 +1,9 @@
 import sys
-5
+
 print(sys.version)
 
+
 cos = ["a", "b", "c"]
-a = 5
 g = input("liczba")
 g = int(g)
 while g > 0:
